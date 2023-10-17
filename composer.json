@@ -1,8 +1,8 @@
 {
-    "name": "mijora/omniva-api",
+    "name": "girvydas/omniva-api",
     "description": "Omniva API wrapper",
     "type": "library",
-    "version": "1.0.13",
+    "version": "1.0.14",
     "authors": [
         {
             "name": "Modestas",
